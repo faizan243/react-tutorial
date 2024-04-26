@@ -1,2 +1,12 @@
 MERN stack
 
+1. React Components (Cover)
+2. Props (properties // params) (Cover)
+3. States 
+3.1 components dynamicly Rendering
+4. statement library
+5. statement library RTQ
+6. React Routering
+
+
+
