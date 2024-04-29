@@ -4,6 +4,13 @@ import { useState } from 'react';
 function App() {
 
   const [myName, setMyName] = useState('');
+  // Hook (useState)
+  // use state return array of two elements
+  // no1 variable
+  // no2 function
+  // variable we can assign anywhere
+  // Function change the value of variable
+
   const [myRollNumber, setMyRollNumber] = useState(0);
 
 
@@ -31,8 +38,8 @@ function App() {
         onChange={(event) => setMyRollNumber(event.target.value)}
       />
       <br />
-    Name: {myName} <br />
-    Roll Number:  {myRollNumber}
+      Name: {myName} <br />
+      Roll Number:  {myRollNumber}
 
 
 
