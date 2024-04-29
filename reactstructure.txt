@@ -2,11 +2,18 @@ MERN stack
 
 1. React Components (Cover)
 2. Props (properties // params) (Cover)
-3. States 
+3. UseStates 
 3.1 components dynamicly Rendering
 4. statement library
 5. statement library RTQ
 6. React Routering
 
 
+
+UseStates
+
+
+const  [0, 1] = useState();
+pehly hota hai variable state ka variable
+second hota  function wo function is variable ko update kr rh hota hai
 
